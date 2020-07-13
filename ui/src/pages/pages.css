@@ -1,0 +1,31 @@
+.MuiAppBar-colorPrimary {
+    color: #fff;
+    background-color: #eeeef1 !important;
+}
+.MuiToolbar-regular {
+  min-height: 53px;
+
+  display: flex;
+  justify-content: space-around;
+}
+.MuiToolbar-regular a {
+    margin : 0px 20px ;
+}
+.structure-hotel{
+  text-align: center;
+  margin-top : 100px
+}
+.formReservation {
+  text-align: center;
+  
+  margin-top: 250px;
+}
+
+.table {
+  width: 20% !important;
+  margin-left: 40%;
+}
+.structure-ages {
+  text-align: center;
+
+}
